@@ -1,0 +1,4 @@
+def hello_func():
+    return "Hello world!"
+    
+print(hello_func().upper())
